@@ -12,11 +12,11 @@ Adding UnCAPTCHA to a page is as simple as `require`ing the script file.
 
 ```
 <form method="post">
-...
+  ...
 
-<?php require("captcha.php") ?>
+  <?php require("captcha.php") ?>
 
-...
+  ...
 </form>
 ```
 
