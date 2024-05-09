@@ -1,6 +1,9 @@
 # UnCAPTCHA
 UnCAPTCHA is a simple ReCAPTCHA V1 recreation in PHP.
 
+![uncaptcha](https://github.com/breadtf/uncaptcha/assets/103989916/dd5b80ea-60ff-4d20-a87c-fdd9f1ad13a8)
+
+
 ## Installation
 Copy all of the files in this repo into the relevent locations on your webserver.
 
